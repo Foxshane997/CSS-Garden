@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+  }
+
+  .body {
+    background-color:#FFEDB8 ;
+    font-family: karla;
+  }
+
+  .nav-bar {
+    background-color:rgb(224, 224, 224)
+
+  }
+
+  .aside {
+    background-color:#DAF7A6;
+    color:#FFC300;
+  }
+
+  .anchor {
+    color:#FF5733;
+  }
+
+  li {
+    color:#FFC300;
+  }
